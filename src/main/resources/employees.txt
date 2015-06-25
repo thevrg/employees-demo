@@ -1,0 +1,3 @@
+Secretary,102,Bela,1000
+Employee,103,Jozsi,2000
+Manager,104,Feri,3000,HR
